@@ -19,7 +19,19 @@
   }
   
   body {
-    background-color: #282828;
+    background-color: #000000;
+    padding: 20px;
+    font-family: Arial;
+    color: white;
+  }
+  .container {
+    position: relative;
+    text-align: center;
+    color: white;
+    background: #000000;
+  }
+  .card {
+    background-color: #600000;
     padding: 20px;
     font-family: Arial;
     color: white;
